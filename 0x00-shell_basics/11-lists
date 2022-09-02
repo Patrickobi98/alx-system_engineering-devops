@@ -1,3 +1,2 @@
-__EOF__
-'
-"
+#!/bin/bash
+ls -la. ../boot
