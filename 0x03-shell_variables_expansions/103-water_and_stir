@@ -1,2 +1,19 @@
-#!/bin/bash
-printf '%o\n' 0 | tr 01234567 bestchol
+total 60
+-rwxr--r-- 1 root root  28 Sep  6 14:04 0-alias
+-rwxr--r-- 1 root root  27 Sep  6 18:11 100-decimal_to_hexadecimal
+-rw-r--r-- 1 root root  19 Sep  6 18:43 103-water_and_stare
+-rwxr--r-- 1 root root   0 Sep  7 10:35 103-water_and_stir
+-rwxr--r-- 1 root root  19 Sep  6 17:56 10-love_exponent_breath
+-rwxr--r-- 1 root root  19 Sep  6 17:59 11-binary_to_decimal
+-rwxr--r-- 1 root root  29 Sep  6 18:05 13-print_float
+-rwxr--r-- 1 root root  26 Sep  6 16:36 1-hello_you
+-rwxr--r-- 1 root root  95 Sep  6 16:29 2-path
+-rwxr--r-- 1 root root 103 Sep  6 16:40 3-paths
+-rwxr--r-- 1 root root  21 Sep  6 16:42 4-global_variables
+-rwxr--r-- 1 root root  16 Sep  6 16:44 5-local_variables
+-rwxr--r-- 1 root root  25 Sep  6 16:54 6-create_local_variable
+-rwxr--r-- 1 root root  33 Sep  6 16:56 7-create_global_variable
+-rwxr--r-- 1 root root  24 Sep  6 16:59 8-true_knowledge
+-rwxr--r-- 1 root root   0 Sep  6 17:02 9-divide_and_rule
+drwxr-xr-x 2 root root   6 Sep  6 16:14 action
+-rw-r--r-- 1 root root  27 Sep  6 14:06 README.md
